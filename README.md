@@ -21,9 +21,9 @@ My journey in coding started with Assembly, Python and I've been diving deep int
 ## 📫 Connect With Me
 - **GitHub**: Keep an eye on my repositories for the latest in cybersecurity projects.
 - **Future Plans**: I plan to advance my skills in cybersecurity, explore ethical hacking, and contribute more tools to help improve digital security.
-
+- **Instagram**: [@yusuf.cyw](https://www.instagram.com/yusuf.cyw?igsh=MTZmZmF4aGUxemo3ZQ==)
+  
 Thanks for visiting my profile! Stay tuned for more projects, and feel free to reach out if you’re interested in collaborating or discussing cybersecurity.
 
-*Instagram: @yusuf.cyw*
  
 👾 _Coding is my weapon in the fight for a safer digital world._ 👾
