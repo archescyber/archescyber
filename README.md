@@ -14,13 +14,13 @@ My journey in coding started with Assembly, Python and I've been diving deep int
 
 ## 🚀 Notable Projects
 - **[Enagement DDoS Grabber](https://github.com/archescyber/)**:
--  A sophisticated tool designed for testing DDoS mitigation.
+A sophisticated tool designed for testing DDoS mitigation.
 - **[Mail Bomber](https://github.com/archescyber/mail-bomber/)**:
-- An educational tool designed to demonstrate the risks associated with email spamming and improve understanding of email security.
+An educational tool designed to demonstrate the risks associated with email spamming and improve understanding of email security.
 - **[Credit Card Format Checker](https://github.com/archescyber/credit-card-checker/)**:
-- A tool to validate credit card formats and categorize them by issuing bank.
+A tool to validate credit card formats and categorize them by issuing bank.
 - **[Instagram Forcer](https://github.com/archescyber/instagram-forcer/)**:
-- Instagram password brute force attack program.
+Instagram password brute force attack program.
   
 ## 📫 Connect With Me
 - **GitHub**: Keep an eye on my repositories for the latest in cybersecurity projects.
