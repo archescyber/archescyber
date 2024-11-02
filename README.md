@@ -6,7 +6,7 @@ I'm a 17-year-old cybersecurity enthusiast and developer passionate about creati
 
 My journey in coding started with Assembly, Python and I've been diving deep into cybersecurity ever since.
 
-## 🔐 About Me
+## 🛡️ About Me
 - 💻 **Cybersecurity Focus**: I'm deeply engaged in cybersecurity, aiming to improve online safety through coding.
 - 🌍 **Projects**: Most of my projects are focused on penetration testing, detection systems, and security tools.
 - 📈 **Learning & Growth**: I continuously strive to improve my coding skills, working on advanced projects that push my limits.
