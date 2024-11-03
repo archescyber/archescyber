@@ -1,8 +1,8 @@
-# 🔱 Github
+# 🔱 Github.
 
-Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. 
+• Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. 
 
-From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
+• From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
 
 # 🛡️ Cyber.
 
