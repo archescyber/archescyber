@@ -14,7 +14,9 @@
 
 📈 **Learning:** Constantly pushing the boundaries of my coding abilities through complex projects.
 
-💬 **Languages:** Skilled in Python, exploring Assembly for a stronger low-level foundation.
+💬 **Languages:** Skilled in Python, exploring Assembly for a stronger low-level foundation. 
+
+Additionally, I have experience in C, C#, and Java, which enriches my programming skills and versatility.
 
 
 # 🚀 Projects.
