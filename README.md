@@ -1,4 +1,4 @@
-# 🔱 Welcome to My GitHub Kingdom.
+# 🔱 Github
 
 Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. 
 
@@ -35,7 +35,7 @@ GitHub: Follow my repos for the latest on cybersecurity tools.
 Future Plans: Delve deeper into ethical hacking, expand my cybersecurity expertise, and develop more defensive tools.
 
 Instagram: @yusuf.cyw
----
+
 # 🪤 Details.
 Thank you for checking out my profile! Stay tuned for more cutting-edge projects, and feel free to reach out if you’re interested in collaboration or just want to chat about cybersecurity.
 
