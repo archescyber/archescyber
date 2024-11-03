@@ -21,7 +21,7 @@ Here’s a glimpse into some of my creations:
 
 ⚔️ Enagement DDoS Grabber: A robust tool crafted for testing DDoS protection mechanisms.
 
-📬 Mail Bomber: Demonstrates email spamming risks to promote security awareness.
+📧 Mail Bomber: Demonstrates email spamming risks to promote security awareness.
 
 💳 Credit Card Format Checker: Validates credit card formats and categorizes by issuer.
 
