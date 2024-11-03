@@ -1,8 +1,10 @@
 # 🔱 Github.
 
-• Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. 
+**•** As a 17-year-old cybersecurity enthusiast and developer, I’m dedicated to crafting impactful tools and solutions that address the complex challenges of digital security.
 
-• From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
+**•** Driven by curiosity and a commitment to innovation, I aim to create cutting-edge technologies that strengthen online safety and make a real difference in the cybersecurity field.
+
+**•** From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
 
 # 🛡️ Cyber.
 
@@ -30,9 +32,9 @@ Here’s a glimpse into some of my creations:
 
 # 🗣️ Let’s Connects.
 
-GitHub: Follow my repos for the latest on cybersecurity tools.
+**GitHub:** Follow my repos for the latest on cybersecurity tools.
 
-Future Plans: Delve deeper into ethical hacking, expand my cybersecurity expertise, and develop more defensive tools.
+**Future Plans:** Delve deeper into ethical hacking, expand my cybersecurity expertise, and develop more defensive tools.
 
 # 🪤 Details.
 Thank you for checking out my profile! Stay tuned for more cutting-edge projects, and feel free to reach out if you’re interested in collaboration or just want to chat about cybersecurity.
