@@ -6,26 +6,26 @@
 
 # 🛡️ Cyber.
 
-💻 Focus: Specialized in cybersecurity, aiming to enhance online safety through code.
+💻 **Focus:** Specialized in cybersecurity, aiming to enhance online safety through code.
 
-🌍 Projects: Developing tools for penetration testing, threat detection, and cyber defense.
+🌍 **Projects:** Developing tools for penetration testing, threat detection, and cyber defense.
 
-📈 Learning: Constantly pushing the boundaries of my coding abilities through complex projects.
+📈 **Learning:** Constantly pushing the boundaries of my coding abilities through complex projects.
 
-💬 Languages: Skilled in Python, exploring Assembly for a stronger low-level foundation.
+💬 **Languages:** Skilled in Python, exploring Assembly for a stronger low-level foundation.
 
 
 # 🚀 Projects.
 
 Here’s a glimpse into some of my creations:
 
-⚔️ Enagement DDoS Grabber: A robust tool crafted for testing DDoS protection mechanisms.
+**⚔️ Enagement DDoS Grabber:** A robust tool crafted for testing DDoS protection mechanisms.
 
-📧 Mail Bomber: Demonstrates email spamming risks to promote security awareness.
+**📧 Mail Bomber:** Demonstrates email spamming risks to promote security awareness.
 
-💳 Credit Card Format Checker: Validates credit card formats and categorizes by issuer.
+**💳 Credit Card Format Checker:** Validates credit card formats and categorizes by issuer.
 
-🔒 Instagram Forcer: An educational tool showcasing password brute-forcing on Instagram.
+**🔓 Instagram Forcer:** An educational tool showcasing password brute-forcing on Instagram.
 
 
 # 🗣️ Let’s Connects.
