@@ -1,8 +1,8 @@
-#🔱 Welcome to My GitHub Kingdom.
+# 🔱 Welcome to My GitHub Kingdom.
 
 Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
 
-#🛡️ Cybersecurity is My Battlefield 🛡️
+# 🛡️ Cybersecurity is My Battlefield 🛡️
 
 💻 Focus: Specialized in cybersecurity, aiming to enhance online safety through code.
 
@@ -13,7 +13,7 @@ Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to
 💬 Languages: Skilled in Python, exploring Assembly for a stronger low-level foundation.
 
 
-🚀 Projects That Pack a Punch 🚀
+# 🚀 Projects That Pack a Punch 🚀
 
 Here’s a glimpse into some of my creations:
 
@@ -26,7 +26,7 @@ Here’s a glimpse into some of my creations:
 🔒 Instagram Forcer: An educational tool showcasing password brute-forcing on Instagram.
 
 
-🗣️ Let’s Connect & Collaborate 🗣️
+# 🗣️ Let’s Connect & Collaborate 🗣️
 
 GitHub: Follow my repos for the latest on cybersecurity tools.
 
@@ -34,13 +34,11 @@ Future Plans: Delve deeper into ethical hacking, expand my cybersecurity experti
 
 Instagram: @yusuf.cyw
 
-
+# 🪤 Details
 Thank you for checking out my profile! Stay tuned for more cutting-edge projects, and feel free to reach out if you’re interested in collaboration or just want to chat about cybersecurity.
 
 🔱 Coding is my weapon in the fight for a safer digital world.
 
 
 ---
-
-Daha fazla emoji ekleyip açıklamalarınıza uygun semboller seçtim.
 
