@@ -1,8 +1,10 @@
 # 🔱 Welcome to My GitHub Kingdom.
 
-Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
+Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to creating powerful tools and solutions to tackle the challenges of digital security. 
 
-# 🛡️ Cybersecurity is My Battlefield 🛡️
+From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
+---
+# 🛡️ Cyber.
 
 💻 Focus: Specialized in cybersecurity, aiming to enhance online safety through code.
 
@@ -11,9 +13,9 @@ Hey there! I'm a 17-year-old cybersecurity enthusiast and developer dedicated to
 📈 Learning: Constantly pushing the boundaries of my coding abilities through complex projects.
 
 💬 Languages: Skilled in Python, exploring Assembly for a stronger low-level foundation.
+---
 
-
-# 🚀 Projects That Pack a Punch 🚀
+# 🚀 Projects.
 
 Here’s a glimpse into some of my creations:
 
@@ -24,21 +26,20 @@ Here’s a glimpse into some of my creations:
 💳 Credit Card Format Checker: Validates credit card formats and categorizes by issuer.
 
 🔒 Instagram Forcer: An educational tool showcasing password brute-forcing on Instagram.
+---
 
-
-# 🗣️ Let’s Connect & Collaborate 🗣️
+# 🗣️ Let’s Connects.
 
 GitHub: Follow my repos for the latest on cybersecurity tools.
 
 Future Plans: Delve deeper into ethical hacking, expand my cybersecurity expertise, and develop more defensive tools.
 
 Instagram: @yusuf.cyw
-
-# 🪤 Details
+---
+# 🪤 Details.
 Thank you for checking out my profile! Stay tuned for more cutting-edge projects, and feel free to reach out if you’re interested in collaboration or just want to chat about cybersecurity.
 
 🔱 Coding is my weapon in the fight for a safer digital world.
 
 
----
 
