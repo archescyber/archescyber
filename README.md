@@ -1,47 +1,11 @@
-# 🔱 Github.
+Hello everyone,
 
-**•** As a 17-year-old cybersecurity enthusiast and developer, I’m dedicated to crafting impactful tools and solutions that address the complex challenges of digital security.
+My name is Yusuf, also known as archescyber. Today, instead of simply presenting an ordinary GitHub profile, I want to share some of my thoughts about myself and the vast world of the internet.
 
-**•** Driven by curiosity and a commitment to innovation, I aim to create cutting-edge technologies that strengthen online safety and make a real difference in the cybersecurity field.
+Cybersecurity is an endless ocean for those who dare to explore it. However, diving into its depths requires time, dedication, and a constant desire to learn. Always remember, the internet is not as innocent as it may seem; every light casts a shadow. Therefore, question everything you encounter and prioritize protecting yourself in the online world.
 
-**•** From low-level programming to advanced cyber defense, my journey has been a thrilling adventure.
+For those who wish to step into the realm of cybersecurity, here’s my advice: this field is far more than cloning a few projects. It’s a space for passionate, curious, and ethical individuals. To preserve both your integrity and the reputation of this field, don’t be a "lamer," and don’t encourage others to take that path either.
 
-# 🛡️ Cyber.
+Lastly, remember that cybersecurity is not just a profession; it’s also a responsibility. Use your knowledge wisely to grow as an individual and contribute positively to those around you.
 
-💻 **Focus:** Specialized in cybersecurity, aiming to enhance online safety through code.
-
-🌍 **Projects:** Developing tools for penetration testing, threat detection, and cyber defense.
-
-📈 **Learning:** Constantly pushing the boundaries of my coding abilities through complex projects.
-
-💬 **Languages:** Skilled in Python, exploring Assembly for a stronger low-level foundation. 
-
-Additionally, I have experience in C, C#, and Java, which enriches my programming skills and versatility.
-
-
-# 🚀 Projects.
-
-Here’s a glimpse into some of my creations:
-
-**⚔️ Enagement DDoS Grabber:** A robust tool crafted for testing DDoS protection mechanisms.
-
-**📧 Mail Bomber:** Demonstrates email spamming risks to promote security awareness.
-
-**💳 Credit Card Format Checker:** Validates credit card formats and categorizes by issuer.
-
-**🔓 Instagram Forcer:** An educational tool showcasing password brute-forcing on Instagram.
-
-
-# 🗣️ Let’s Connects.
-
-**GitHub:** Follow my repos for the latest on cybersecurity tools.
-
-**Future Plans:** Delve deeper into ethical hacking, expand my cybersecurity expertise, and develop more defensive tools.
-
-# 🪤 Details.
-Thank you for checking out my profile! Stay tuned for more cutting-edge projects, and feel free to reach out if you’re interested in collaboration or just want to chat about cybersecurity.
-
-🔱 Coding is my weapon in the fight for a safer digital world.
-
-
-
+Best regards and warm wishes.
